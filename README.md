@@ -1,4 +1,4 @@
-# Saltik: Dataset of Synthetic Non-word Errors From Indonesian Popular Words
+# SALTIK: An Indonesian Non-Word Error Spelling Correction Dataset 
 
 ## Summary
 
@@ -9,11 +9,11 @@ Saltik is a dataset for benchmarking non-word error correction method accuracy i
 No split.
 
 ## Changelog
-* 2023-08-31 v1.0
+* 2023-09-01 v1.0
   * Initial dataset
 
 ## Acknowledgments
-* Saltik v1.0 was built by Hanif Arkan Audah for his bachelor thesis at the Faculty of Computer Science, Universitas Indonesia in 2023.
+* SALTIK v1.0 was built by Hanif Arkan Audah for his undergraduate thesis at Faculty of Computer Science, Universitas Indonesia in 2023.
 
 <!-- ## References
 
