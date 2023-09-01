@@ -15,22 +15,21 @@ No split.
 ## Acknowledgments
 * SALTIK v1.0 was built by Hanif Arkan Audah for his undergraduate thesis at Faculty of Computer Science, Universitas Indonesia in 2023.
 
-<!-- ## References
+## References
 
-Please cite the following paper if you use this dataset for your project/publication:
+Please cite the following paper if you use this dataset for your project/publication (**status: accepted**)
 
-```
-@article{[audah2023](), <br>
+@inproceedings{audah2023, <br>
     author = {Audah, Hanif Arkan and Yuliawati, Arlisa and Alfina, Ika}, <br>
-    journal = {}, <br>
+    booktitle = "Proceedings of the ICAICTA 2023", <br>
+    month = "October", <br>
+    year = "2023", <br>
+    address = "Lombok, Indonesia", <br>
+    publisher = "IEEE", <br>
     keywords = {spell checker,non-word error,isolated-word error correction,symspell,edit distance,damerau-levenshtein}, <br>
-    pages = {}, <br>
     title = {{A Comparison Between SymSpell and a Combination of Damerau-Levenshtein Distance With the Trie Data Structure}}, <br>
-    volume = {}, <br>
-    number = {}, <br>
     year = {2023} <br>
 }
-``` -->
 
 ## Licence
 You can use this dataset for free. You don't need our permission to use it. Please cite our paper if your work uses our data in your publication.
